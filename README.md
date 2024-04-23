@@ -4,7 +4,7 @@ Welcome to the PoliticalCampaignDB repository. This repository contains a logica
 
 ## File
 
-- `DB_Valerii_Andriushchenko_HW_Political-Campaign_diagram_upd.png` - This file is a comprehensive Entity-Relationship Diagram (ERD) that represents the logical model of the political campaign database. The diagram illustrates tables, their attributes, and the relationships between them.
+- `DB_Political-Campaign_diagram_upd.png` - This file is a comprehensive Entity-Relationship Diagram (ERD) that represents the logical model of the political campaign database. The diagram illustrates tables, their attributes, and the relationships between them.
 
 ## Description of the Diagram
 
